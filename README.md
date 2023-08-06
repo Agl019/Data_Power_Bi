@@ -1,2 +1,4 @@
 # Datasets
-Aquí se almacenan conjunto de datos que serán utilizados en próximos dashboards en la plataforma de Power Bi
+Estoy comenzando a aprender y necesito un lugar donde almacenar data.
+Entre muchas, elegí esta plataforma.
+
